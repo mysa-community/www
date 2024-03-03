@@ -1,0 +1,8 @@
+/*
+  Report-To: {"group":"default","max_age":10886400,"endpoints":[{"url":"https://832edk4t.uriports.com/reports"}],"include_subdomains":true}
+  Reporting-Endpoints: default="https://832edk4t.uriports.com/reports"
+  NEL: {"report_to":"default","max_age":2592000,"include_subdomains":true,"failure_fraction":1.0}
+  Content-Security-Policy-Report-Only: default-src 'self'; font-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; frame-ancestors 'self'; report-uri https://832edk4t.uriports.com/reports/report; report-to default
+  Permissions-Policy-Report-Only: microphone=(), camera=(self "https://www.example.com"), fullscreen=*, payment=self
+  Cross-Origin-Embedder-Policy-Report-Only: require-corp; report-to="default"
+  Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="default"
